@@ -1,0 +1,9 @@
+{
+    "name": "shardman/shardman",
+    "autoload": {
+        "psr-4": {
+            "Shardman\\": "src/",
+            "Shardman\\Test\\": "test/"
+        }
+    }
+}
